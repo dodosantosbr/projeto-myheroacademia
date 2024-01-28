@@ -1,7 +1,7 @@
 window.onload = function () {
   setTimeout(function () {
     document.querySelector(".loading").remove();
-  }, 2200);
+  }, 2400);
 };
 
 const audioPlayer = document.querySelector("audio");
